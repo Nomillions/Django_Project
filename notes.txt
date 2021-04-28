@@ -1,0 +1,10 @@
+Important Notes:
+1.) django-admin startproject learning_log .
+- dont forget the period at the end        ^
+2.) python3 manage.py migrate
+3.) python3 manage.py runserver
+4.) python3 manage.py startapp MainApp
+
+The items below are similar to staging a change for GitHub but regarding Django
+5.) python3 manage.py makemigrations MainApp
+6.) python3 manage.py migrate
